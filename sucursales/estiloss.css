@@ -1,0 +1,14 @@
+
+body{
+   background-color:burlywood ;
+} 
+table {
+   width: 100%;
+   border: 1px solid #000;
+   background-color: whitesmoke;
+}
+th, td {
+   width: 25%;
+   text-align: left;
+   border: 1px solid #000;
+}

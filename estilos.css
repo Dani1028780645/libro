@@ -17,6 +17,7 @@ ul{
     text-decoration: none;
     position: relative;
     text-align: center;
+<<<<<<< HEAD
     
 }
 
@@ -30,4 +31,6 @@ td{
 img{
     justify-content: center;
     margin-top: 20px;
+=======
+>>>>>>> origin/tomas1102
 }
