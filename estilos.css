@@ -22,3 +22,8 @@ ul{
     text-align: center;
     
 }
+
+img{
+    justify-content: center;
+    margin-top: 20px;
+}
