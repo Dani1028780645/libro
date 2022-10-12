@@ -17,10 +17,17 @@ ul{
     text-decoration: none;
     position: relative;
     text-align: center;
+    
 }
+
 table{
     border:1px solid #000;
 }
 td{
     border:1px solid #000;
+}
+
+img{
+    justify-content: center;
+    margin-top: 20px;
 }
