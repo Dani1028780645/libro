@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: #E6925A;
+    font-size: 20px;
+}
+
+.contenedor{
+    text-align: center;
+    color: white;
+}
+
+.contenedor ul h2{
+    color: black;
+}
