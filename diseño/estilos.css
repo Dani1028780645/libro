@@ -12,6 +12,11 @@ header{
     background:#995C33;
 }
 
+<<<<<<< HEAD:estilos.css
+=======
+
+
+>>>>>>> origin/karol:diseño/estilos.css
 ul{
     display: inline block;
     text-decoration: none;
@@ -21,6 +26,7 @@ ul{
     
 }
 
+<<<<<<< HEAD:estilos.css
 table{
     border:1px solid #000;
 }
@@ -34,3 +40,5 @@ img{
 =======
 >>>>>>> origin/tomas1102
 }
+=======
+>>>>>>> origin/karol:diseño/estilos.css
