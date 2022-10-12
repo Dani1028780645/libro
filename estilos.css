@@ -4,7 +4,7 @@
 }
 
 body{
-    backgraund:#E6925A;
+    background:#E6925A;
     font-size: 20px;
 }
 
@@ -12,13 +12,9 @@ header{
     background:#995C33;
 }
 
-nav{
-    color:;
-}
 ul{
     display: inline block;
     text-decoration: none;
     position: relative;
     text-align: center;
-    
 }
